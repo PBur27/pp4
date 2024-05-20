@@ -9,8 +9,7 @@ public class Product {
     private String description;
     private BigDecimal price;
 
-    Product(){
-
+    Product() {
     }
 
     public Product(UUID id, String name, String description) {
