@@ -1,7 +1,7 @@
-package pl.jkanclerz.ecommerce.sales;
+package pl.PBur27.ecommerce.sales;
 
 import org.junit.jupiter.api.Test;
-import pl.jkanclerz.ecommerce.sales.cart.HashMapCartStorage;
+import pl.PBur27.ecommerce.sales.cart.HashMapCartStorage;
 
 import java.math.BigDecimal;
 

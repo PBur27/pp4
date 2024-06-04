@@ -1,4 +1,4 @@
-package pl.jkanclerz.ecommerce.sales;
+package pl.PBur27.ecommerce.sales;
 
 import org.springframework.web.bind.annotation.*;
 

@@ -1,12 +1,12 @@
-package pl.jkanclerz.ecommerce;
+package pl.PBur27.ecommerce;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
-import pl.jkanclerz.ecommerce.catalog.ArrayListProductStorage;
-import pl.jkanclerz.ecommerce.catalog.ProductCatalog;
-import pl.jkanclerz.ecommerce.sales.SalesFacade;
-import pl.jkanclerz.ecommerce.sales.cart.HashMapCartStorage;
+import pl.PBur27.ecommerce.catalog.ArrayListProductStorage;
+import pl.PBur27.ecommerce.catalog.ProductCatalog;
+import pl.PBur27.ecommerce.sales.SalesFacade;
+import pl.PBur27.ecommerce.sales.cart.HashMapCartStorage;
 
 import java.math.BigDecimal;
 

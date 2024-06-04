@@ -25,7 +25,7 @@ Ensures our code works well with the part of external environment eg: `Spring Bo
 
 ## Files
 * [pom.xml](../pom.xml)
-* [src/main/java/pl/jkanclerz/ecommerce/App.java](../src/main/java/pl/PBur27/ecommerce/App.java)
+* [src/main/java/pl/PBur27/ecommerce/App.java](../src/main/java/pl/PBur27/ecommerce/App.java)
 * [src/main/resources/static](../src/main/resources/static)
-* [src/main/java/pl/jkanclerz/ecommerce/catalog/ProductCatalogController.java](../src/main/java/pl/PBur27/ecommerce/catalog/ProductCatalogController.java)
-* [src/test/java/pl/jkanclerz/ecommerce/AppTest.java](../src/test/java/pl/PBur27/ecommerce/AppTest.java)
+* [src/main/java/pl/PBur27/ecommerce/catalog/ProductCatalogController.java](../src/main/java/pl/PBur27/ecommerce/catalog/ProductCatalogController.java)
+* [src/test/java/pl/PBur27/ecommerce/AppTest.java](../src/test/java/pl/PBur27/ecommerce/AppTest.java)

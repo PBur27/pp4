@@ -1,7 +1,7 @@
-package pl.jkanclerz.ecommerce.sales;
+package pl.PBur27.ecommerce.sales;
 
-import pl.jkanclerz.ecommerce.sales.cart.Cart;
-import pl.jkanclerz.ecommerce.sales.cart.HashMapCartStorage;
+import pl.PBur27.ecommerce.sales.cart.Cart;
+import pl.PBur27.ecommerce.sales.cart.HashMapCartStorage;
 
 public class SalesFacade {
     private HashMapCartStorage cartStorage;

@@ -22,5 +22,5 @@
 * Generate code ``Alt + Ins``
 
 ## Files
-* [src/test/java/pl/jkanclerz/ecommerce/catalog/ProductCatalogTest](../src/test/java/pl/PBur27/ecommerce/catalog/ProductCatalogTest.java)
-* [src/main/java/pl/jkanclerz/ecommerce/catalog](../src/test/java/pl/PBur27/ecommerce/catalog)
+* [src/test/java/pl/PBur27/ecommerce/catalog/ProductCatalogTest](../src/test/java/pl/PBur27/ecommerce/catalog/ProductCatalogTest.java)
+* [src/main/java/pl/PBur27/ecommerce/catalog](../src/test/java/pl/PBur27/ecommerce/catalog)

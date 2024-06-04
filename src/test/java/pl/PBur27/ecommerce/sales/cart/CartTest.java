@@ -1,8 +1,8 @@
-package pl.jkanclerz.ecommerce.sales.cart;
+package pl.PBur27.ecommerce.sales.cart;
 
 import org.junit.jupiter.api.Test;
-import pl.jkanclerz.ecommerce.sales.cart.Cart;
-import pl.jkanclerz.ecommerce.sales.cart.CartItem;
+import pl.PBur27.ecommerce.sales.cart.Cart;
+import pl.PBur27.ecommerce.sales.cart.CartItem;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
